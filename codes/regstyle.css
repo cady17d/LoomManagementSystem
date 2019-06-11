@@ -1,0 +1,103 @@
+body {
+    font-family: "Lato", sans-serif;
+    background-color: #AAB6D9;
+}
+
+.sidenav {
+    width: 180px;
+    position: fixed;
+    z-index: 1;
+    top: 100px;
+    left: 10px;
+    background: black;
+    overflow-x: hidden;
+    padding: 8px 0;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #2196F3;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #064579;
+}
+
+.main {
+    margin-left: 200px;
+    font-size: 28px;
+    padding: 0px 10px;
+}
+
+canvas{
+  border: 2px  solid black;
+  margin: 5pt;
+  height: 150px;
+  width: 120px;
+  background-color: lightblue;
+}
+
+.frm{
+    width: 100px;
+    height: 50px;
+    margin: auto;
+    margin-left: 100px;
+}
+
+.frm2{
+    width: 100px;
+    height: 80px;
+    margin: auto;
+  margin-left: 730px; 
+
+}
+
+h6{
+    width: 100px;
+    height: 30px;
+    margin: auto;
+    margin-left: 100px; 
+}
+
+h2{
+  text-align: center;
+}
+
+#canvascontainer{
+   text-align:center;
+   margin-left: 500px; 
+   margin-top: -500px;
+}
+
+input{
+  
+}
+
+#button{
+  width: 80%;
+}
+
+.frm{
+    width: 100px;
+    height: 50px;
+    margin: auto;
+    margin-left: 100px;
+}
+
+.radio{
+
+  margin: auto;
+  margin-left: 100px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  
+  
+  
+}
+
+.radiotext{
+  font-size: 18px;
+}
